@@ -1,1 +1,3 @@
-console.log('Hello Mahendra!');
+module.exports = function () {
+  console.log('Hello Mahendra!!');
+}
