@@ -1,6 +1,6 @@
 {
   "name": "hello-mahendra",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Say hello to mahendra",
   "main": "index.js",
   "scripts": {
