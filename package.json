@@ -1,0 +1,22 @@
+{
+  "name": "hello-mahendra",
+  "version": "1.0.0",
+  "description": "Say hello to mahendra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahendraSv/hello-mahenra.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Mahendra Singamsetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahendraSv/hello-mahenra/issues"
+  },
+  "homepage": "https://github.com/MahendraSv/hello-mahenra#readme"
+}
